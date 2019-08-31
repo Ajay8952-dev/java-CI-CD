@@ -13,7 +13,7 @@ variables:
   webAppName: 'java-spring-boot'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'AzureDevOps'
 
 stages:
 - stage: Build
