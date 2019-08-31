@@ -8,7 +8,7 @@ trigger:
 
 variables:
 
-  azureSubscription: 412bca16-084a-445f-85c8-b482d8f59564
+  azureSubscription: '412bca16-084a-445f-85c8-b482d8f59564'
   # Web app name
   webAppName: 'java-spring-boot'
 
