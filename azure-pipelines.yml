@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'K8sAzureDevops'
   
   # Web app name
-  webAppName: 'java-spring-boot'
+  webAppName: 'jspringboot'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
